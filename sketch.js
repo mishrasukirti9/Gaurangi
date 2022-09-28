@@ -14,7 +14,7 @@ function preload(){
     learningImg=loadImage("IMAGES/LEARNING.png")
     swarImg=loadImage("IMAGES/swar.png")
     vyanjanImg=loadImage("IMAGES/vyanjan.png")
-    countingImg=loadImage("IMAGES/counting.PNG")
+    countingImg=loadImage("IMAGES/counting.png")
     alphabetsImg=loadImage("IMAGES/maxresdefault.jpg")
     playImg = loadImage("IMAGES/b3.png")
     bg2 = loadImage("IMAGES/1582694.jpg")
@@ -22,7 +22,7 @@ function preload(){
     vbg=loadImage("flower2.jpg")
     house=loadImage("house.png")
     backI=loadImage("back.png")
-    signs=loadImage("counting/signs.png")
+    signs=loadImage("Counting/signs.png")
 
     s1img = loadImage("swar/S1.png");
     s2img = loadImage("swar/S2.png");
